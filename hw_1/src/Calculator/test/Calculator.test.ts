@@ -7,7 +7,7 @@
 6. В случае, если ожидается возникновение исключения, используется функция-обертка, чтобы проверить, что исключение действительно возникает. Например, expect(() => calculator.calculation(8, 4, "_")).toThrow(new Error("Оператор неожиданного значения: _")) проверяет, что при вызове метода calculation() с некорректным оператором "_" будет выброшено исключение с ожидаемым сообщением
 */
 
-import { Calculator } from "../src/Calculator/Calculator";
+import { Calculator } from "../Calculator";
 
 describe("Calculator", () => {
   const calculator = new Calculator();

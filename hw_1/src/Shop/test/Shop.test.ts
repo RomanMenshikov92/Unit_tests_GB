@@ -8,7 +8,7 @@
 7. Каждый тест содержит вызов функции `expect`, в которой проверяется ожидаемый результат с помощью метода `toEqual()`.
 */
 
-import { Shop, Product } from "../src/Shop/Shop";
+import { Shop, Product } from "../Shop";
 
 describe("Shop", () => {
   let shop: Shop;
