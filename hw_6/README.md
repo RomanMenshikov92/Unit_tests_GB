@@ -20,8 +20,8 @@
 ---
 
 #### Формат:
-- Код программы : [Code]()
-- Код теста: [Test]()
-- Отчет eslint: [EsLint]()
-- Отчет о покрытии тестами: [Coverage]()
-- Объяснение того, какие сценарии покрыты тестами и почему выбраны именно эти сценарии: [Explanation]()
+- Код программы : [Code](https://github.com/RomanMenshikov92/Unit_tests_GB/blob/main/hw_6/src/main.ts)
+- Код теста: [Test](https://github.com/RomanMenshikov92/Unit_tests_GB/blob/main/hw_6/tests/main.test.ts)
+- Отчет eslint: [EsLint](https://github.com/RomanMenshikov92/Unit_tests_GB/tree/main/hw_6/report/eslint)
+- Отчет о покрытии тестами: [Coverage](https://github.com/RomanMenshikov92/Unit_tests_GB/tree/main/hw_6/report/coverage)
+- Объяснение того, какие сценарии покрыты тестами и почему выбраны именно эти сценарии: [Explanation](https://github.com/RomanMenshikov92/Unit_tests_GB/blob/main/hw_6/report/explanation.txt)
